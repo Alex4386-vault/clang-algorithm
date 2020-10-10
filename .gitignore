@@ -1,0 +1,12 @@
+## Ignore Compiled Binaries
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+## Rules
+*.dSYM
+.DS_Store
+.vscode
